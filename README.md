@@ -16,22 +16,6 @@
 @@ 💻 Debuggeando problemas que yo mismo creé. @@
 ```
 
----
-
-## 🚀 Stack tecnológico
-
-<div align="center">
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![React](https://skillicons.dev/icons?i=react)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-
-</div>
-
----
 
 <br>
 
@@ -66,17 +50,6 @@
 
 </div>
 
----
-
-## 📫 Encuéntrame
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-CASTROMJRM-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CASTROMJRM)
-
-</div>
-
----
 
 <div align="center">
 
