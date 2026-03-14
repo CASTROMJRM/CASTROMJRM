@@ -1,23 +1,19 @@
 <div align="center">
-
-# Hey, soy Castro 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Ingeniero+en+Software;Programador+por+accidente;A+veces+mi+c%C3%B3digo+funciona;Y+no+s%C3%A9+por+qu%C3%A9+%F0%9F%A4%B7)](https://git.io/typing-svg)
-
+<h1 align="center"><b>Hola Soy Castro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><br>
 </div>
 
----
 
-## 🧑‍💻 Sobre mí
-```js
-const castro = {
-  nombre: "Castro",
-  username: "CASTROMJRM",
-  descripcion: "Programador por accidente. Mi código funciona. No sé por qué, pero funciona.",
-  rol: "Estudiante de Ingeniería en Software",
-  aprendiendo: ["nuevas tecnologías", "buenas prácticas", "por qué no hay bugs... todavía"],
-  pregunta_frecuente: "¿Por qué funciona esto?"
-};
+
+<img align="left" height="150" src="https://i.pinimg.com/originals/c4/d2/5d/c4d25d156675933ab63679f4952fd222.gif"/>
+
+  <!-- Description -->
+```diff
+🛠️ +Años intentando programar.
++  ✔️ A veces mi código funciona.
+#  👨‍💻 Programador por accidente.
+-  🚀 Rompiendo cosas que ayer sí funcionaban.
+!  ✨ Si compila, no lo toques.
+@@ 💻 Debuggeando problemas que yo mismo creé. @@
 ```
 
 ---
@@ -37,7 +33,12 @@ const castro = {
 
 ---
 
-## 📊 Mis estadísticas en GitHub
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
 
 <div align="center">
 
