@@ -12,12 +12,13 @@ Hola, soy Castro 👋
 
 ---
 
-## 👨‍💻 Sobre mí
 
-💻 Programador por accidente  
+## 🚀 About Me
+Programador por accidente.
 
-Mi código funciona.  
-No sé por qué,  
+Mi código funciona.
+
+No sé por qué,
 pero funciona.
 
 🚀 Estudiante de Ingeniería en Software  
