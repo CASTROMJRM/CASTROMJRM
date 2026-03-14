@@ -9,7 +9,6 @@
 ---
 
 ## 🧑‍💻 Sobre mí
-
 ```js
 const castro = {
   nombre: "Castro",
