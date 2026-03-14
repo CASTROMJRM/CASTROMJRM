@@ -29,7 +29,6 @@ const castro = {
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![React](https://skillicons.dev/icons?i=react)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
