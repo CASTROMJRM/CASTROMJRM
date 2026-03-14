@@ -30,7 +30,7 @@ pero funciona.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,postgres,mongodb,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,postgres,git,github,vscode" />
 
 </p>
 
