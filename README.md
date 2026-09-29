@@ -20,22 +20,6 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CASTROMJRM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CASTROMJRM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CASTROMJRM&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 
 ## 🐍 La serpiente que se come mis commits
