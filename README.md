@@ -37,8 +37,6 @@
 
 <div align="center">
 
-*"Mi código funciona. No sé por qué, pero funciona."* 🤷
-
 ![Profile Views](https://komarev.com/ghpvc/?username=CASTROMJRM&color=00f7ff&style=flat-square&label=Visitas+al+perfil)
 
 </div>
